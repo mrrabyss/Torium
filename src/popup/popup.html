@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <img src="../icons/icon-48.png" class="logo" alt="icon">
+      <div class="title-group">
+        <span class="title">Torium</span>
+        <span class="host">Enable/Disable Tor</span>
+      </div>
+    </div>
+    <div class="toggle-wrap">
+      <div class="pulse-ring" id="pulse"></div>
+      <button class="toggle" id="toggle" aria-label="Toggle proxy"></button>
+    </div>
+    <span class="status-label" id="label">INACTIVE</span>
+    <div class="error-box" id="error" hidden></div>
+  </div>
+  <div class="credits">
+  <span>made by <a href="#" data-url="https://mrrabyss.github.io">mrrabyss</a></span>
+  <div class="links">
+    <a href="#" data-url="https://github.com/mrrabyss/torium">GitHub</a>
+    <span class="dot">·</span>
+    <a href="#" data-url="https://mrrabyss.github.io">Website</a>
+  </div>
+</div>
+  <script src="popup.js"></script>
+</body>
+</html>
