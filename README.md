@@ -6,7 +6,7 @@
 
 **Lightweight Firefox extension for enabling/disabling Tor proxy connection.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+[![License: GPL](https://img.shields.io/badge/License-GPL-purple.svg)](LICENSE)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefox)](../../releases/latest)
 [![GitHub Release](https://img.shields.io/github/v/release/mrrabyss/Torium)](../../releases/latest)
 
@@ -110,7 +110,7 @@ Contributions, bug reports, and feature requests are welcome. Please open an iss
 
 ## License
 
-Licensed under [MIT](LICENSE).
+Licensed under [GPL v3](LICENSE).
 
 ---
 
